@@ -1,0 +1,23 @@
+{
+  "main": "bin/index.html",
+  "name": "5827 Scouting App",
+  "description": "Scouting app by Team 5827",
+  "version": "0.1.0",
+  "keywords": [ "5827", "scouting" ],
+  "window": {
+    "title": "5827 Scouting App",
+    "icon": "link.png",
+    "toolbar": true,
+    "frame": true,
+    "width": 1000,
+    "height": 600,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 1500,
+    "max_height": 1000
+  },
+  "webkit": {
+    "plugin": true
+  }
+}

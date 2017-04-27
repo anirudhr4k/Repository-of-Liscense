@@ -1,0 +1,23 @@
+{
+  "main": "index.html",
+  "name": "5827 Scouting Application",
+  "description": "5827 Scouting App",
+  "version": "0.1.0",
+  "keywords": [ "5827", "scouting" ],
+  "window": {
+    "title": "5827 Scouting Application",
+    "icon": "icon.png",
+    "toolbar": true,
+    "frame": true,
+    "width": 1000,
+    "height": 650,
+    "position": "mouse",
+    "min_width": 400,
+    "min_height": 200,
+    "max_width": 1500,
+    "max_height": 1500
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
